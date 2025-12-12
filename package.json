@@ -37,5 +37,8 @@
     "sqlify-json-to-sql",
     "json-to-sql-generator",
     "json-to-sql-sqlify"
-  ]
+  ],
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
 }
