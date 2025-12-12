@@ -1,0 +1,28 @@
+{
+  "name": "json-sqlify",
+  "version": "1.0.0",
+  "description": "A lightweight utility to convert JSON objects into SQL INSERT statements (raw or parameterized) with safe escaping.",
+  "license": "MIT",
+  "author": "Shubham Tidke",
+  "type": "module",
+  "main": "index.js",
+  "module": "index.js",
+  "exports": {
+    ".": "./index.js"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "json",
+    "sql",
+    "postgres",
+    "mysql",
+    "insert",
+    "json-to-sql",
+    "sql-generator",
+    "database",
+    "lightweight",
+    "utility"
+  ]
+}
