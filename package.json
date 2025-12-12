@@ -13,6 +13,10 @@
   "scripts": {
     "test": "jest"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shubhamtidke0199/json-sqlify"
+  },
   "keywords": [
     "json",
     "sql",
