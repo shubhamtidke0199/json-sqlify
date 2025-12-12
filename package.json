@@ -27,6 +27,15 @@
     "sql-generator",
     "database",
     "lightweight",
-    "utility"
+    "utility",
+    "bulk-insert",
+    "safe-sql",
+    "escape",
+    "parameterized",
+    "sqlify",
+    "sqlify-json",
+    "sqlify-json-to-sql",
+    "json-to-sql-generator",
+    "json-to-sql-sqlify"
   ]
 }
