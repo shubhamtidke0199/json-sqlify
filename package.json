@@ -1,6 +1,6 @@
 {
   "name": "json-sqlify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight utility to convert JSON objects into SQL INSERT statements (raw or parameterized) with safe escaping.",
   "license": "MIT",
   "author": "Shubham Tidke",
