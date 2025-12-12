@@ -1,4 +1,4 @@
-const { jsonToInsert, jsonToBulkInsert, jsonToSQL } = require("./index.js");
+import { jsonToBulkInsert, jsonToInsert, jsonToSQL } from "./index.js";
 
 describe("Postgres JSON → SQL package", () => {
   // -------------------
